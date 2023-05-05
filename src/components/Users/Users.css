@@ -1,0 +1,6 @@
+.users-container {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+}
